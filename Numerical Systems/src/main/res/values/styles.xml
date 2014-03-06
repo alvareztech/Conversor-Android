@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+
+        <item name="android:textColorPrimary">#FFFFFF</item>
+        <item name="android:textColorPrimaryInverse">#FFF</item>
+        <item name="android:textColorSecondary">#FFF</item>
+        <item name="android:textColorSecondaryInverse">#fff</item>
+
+        <item name="android:editTextStyle">@style/EditTextAppTheme</item>
+
+        <!--<item name="android:spinnerStyle">@style/SpinnerAppTheme</item>-->
+
+        <!--<item name="android:spinnerDropDownItemStyle">@style/SpinnerDropDownItemAppTheme</item>-->
+    </style>
+
+</resources>
